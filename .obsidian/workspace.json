@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "be3e44c7fe711e73",
+    "type": "split",
+    "children": [
+      {
+        "id": "49e9b7d106bb7400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4737239f66bf91af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index (start here).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c56fbb2e7fd245c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1e6909aae139350",
+    "type": "split",
+    "children": [
+      {
+        "id": "750df60935928463",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c18eb198b8745d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d230a3d8e0014923",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ea928070975a5427",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6fe4808745b9dfe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6598387ca4836caa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ed6cc500452f911",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ec5f3eee78126f54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "187e377e62a317b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0007eef36ca35b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6403f932105ba27a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b3625cdadd59fd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "8c56fbb2e7fd245c",
+  "lastOpenFiles": [
+    "TDF-Knowledge-Base/README.md",
+    "TDF-Knowledge-Base",
+    "Untitled.md",
+    "Index (start here).md",
+    "Pages/House.md",
+    "Pages/Facilities.md",
+    "Pages/Events.md",
+    "Pages/Accommodations.md",
+    "Pages",
+    "Weekly Flow",
+    "Pages/Today @ TDF.md",
+    "Pages/Weekly Flow.md",
+    "Pages/Portal.md",
+    "Pages/Common Areas.md",
+    "Pages/Activities Room & Co-Working.md",
+    "Pages/Transformation Cabinet Care.md",
+    "Pages/Workshop.md",
+    "Pages/Workshop Re-organization.md",
+    "Pages/Weekly Flow 28.08 - 03.09.md",
+    "Pages/Accommodations Maintenance.md",
+    "Pages/Worm Farm Maintenance.md",
+    "Attachments/A4 - 1.jpg",
+    "Attachments",
+    "Pages/Outside Area.md",
+    "Pages/Café.md",
+    "Pages/Kitchen.md",
+    "Pages/Icebox projects.md",
+    "Pages/TDF Team.md",
+    "Pages/TDF Works.md",
+    "Pages/Systems.md",
+    "Pages/Poop compost.md",
+    "Pages/Foto em 28-08-2023 às 12.39.jpg",
+    "Attachments/A4 - 29.jpg",
+    "Attachments/A4 - 56.jpg",
+    "Attachments/A4 - 55.jpg",
+    "Attachments/A4 - 54.jpg",
+    "Attachments/A4 - 53.jpg",
+    "Attachments/A4 - 52.jpg",
+    "Attachments/A4 - 50.jpg",
+    "Attachments/A4 - 49.jpg",
+    "Fellow SHEEP  an Open Letter for ACTION!"
+  ]
+}
