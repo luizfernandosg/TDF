@@ -14,7 +14,7 @@ et
 		- [[Activities Room & Co-Working]]
 			- [[Transformation Cabinet]]
 		- [[Café]]
-		- [[Outside Area]]
+		- [[Outside Area]]e
 	- [[Land]]
 		- [[Lighthouse]]
 		- [[Tsunami Library]]
