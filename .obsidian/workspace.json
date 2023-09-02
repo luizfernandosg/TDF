@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "1088887d080fda58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poiesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8c56fbb2e7fd245c",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index (start here).md",
+                "file": "Poiesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index (start here).md",
+                "file": "Poiesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index (start here).md"
+                "file": "Poiesis.md"
               }
             }
           }
@@ -168,18 +181,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a6c18eb198b8745d",
+  "active": "1088887d080fda58",
   "lastOpenFiles": [
+    "Index (start here).md",
+    "Poiesis.md",
     "Rituals",
     "Spaces",
     "This Week @ TDF/This Week @ TDF 28.08 - 03.09.md",
     "Pages/Workshop Revolution.md",
     "Pages/Lady's Pipi Care.md",
     "Pages/Accommodations Maintenance.md",
-    "Index (start here).md",
     "TDF-Knowledge-Base/README.md",
     "TDF-Knowledge-Base",
-    "Untitled.md",
     "Pages/House.md",
     "Pages/Facilities.md",
     "Pages/Events.md",
