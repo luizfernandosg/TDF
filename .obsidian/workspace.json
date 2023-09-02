@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index (start here).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Index (start here).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Index (start here).md"
+              }
             }
           }
         ]
@@ -165,18 +168,22 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "8c56fbb2e7fd245c",
+  "active": "4737239f66bf91af",
   "lastOpenFiles": [
+    "This Week @ TDF/This Week @ TDF 28.08 - 03.09.md",
+    "Pages/Workshop Revolution.md",
+    "Pages/Lady's Pipi Care.md",
+    "Pages/Accommodations Maintenance.md",
+    "Index (start here).md",
     "TDF-Knowledge-Base/README.md",
     "TDF-Knowledge-Base",
     "Untitled.md",
-    "Index (start here).md",
     "Pages/House.md",
     "Pages/Facilities.md",
     "Pages/Events.md",
     "Pages/Accommodations.md",
     "Pages",
-    "Weekly Flow",
+    "This Week @ TDF",
     "Pages/Today @ TDF.md",
     "Pages/Weekly Flow.md",
     "Pages/Portal.md",
@@ -184,9 +191,6 @@
     "Pages/Activities Room & Co-Working.md",
     "Pages/Transformation Cabinet Care.md",
     "Pages/Workshop.md",
-    "Pages/Workshop Re-organization.md",
-    "Pages/Weekly Flow 28.08 - 03.09.md",
-    "Pages/Accommodations Maintenance.md",
     "Pages/Worm Farm Maintenance.md",
     "Attachments/A4 - 1.jpg",
     "Attachments",
@@ -197,7 +201,6 @@
     "Pages/TDF Team.md",
     "Pages/TDF Works.md",
     "Pages/Systems.md",
-    "Pages/Poop compost.md",
     "Pages/Foto em 28-08-2023 às 12.39.jpg",
     "Attachments/A4 - 29.jpg",
     "Attachments/A4 - 56.jpg",

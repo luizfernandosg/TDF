@@ -1,0 +1,118 @@
+
+- [[Tasks]]
+
+- [[On-Going Projects]]
+
+- [[Rituals & Containers]]
+
+- [[Events]]
+
+- [[Arrivals]]
+	- Connor
+	- Andrea
+	- Cedric
+	- Corey
+	- teste
+
+- Monday
+	- [[Tasks]]
+		- Collective clean - [[Outside Area Maintenance]]
+		- [[Accommodations Maintenance]]
+		- [[Lady's Pipi Care]]
+	- [[On-Going Projects]]
+		- [[Workshop Revolution]]
+	- [[Rituals & Containers]]
+		- Open Space
+- Tuesday
+	- [[Tasks]]
+		- [[Trash Run]]
+		- [[Shopping]]
+	- [[On-Going Projects]]
+		- [[Workshop Revolution]]
+		- [[Exteriors painting]]
+	- [[Arrivals]]
+		- Andrea
+		- Connor
+- Wednesday
+	- [[On-Going Projects]]
+		- [[Workshop Revolution]]
+		- [[Exteriors painting]]
+- Thursday
+	- [[Tasks]]
+		- [[Toilets Maintenance]]
+	- [[On-Going Projects]]
+		- [[Workshop Revolution]]
+		- [[Exteriors painting]]
+	- [[Rituals & Containers]]
+		- [[Garden morning]]
+	- [[Arrivals]]
+		- Cedric
+		- Iain
+- Friday
+	- [[Tasks]]
+		- [[Accommodations Maintenance]]
+		- [[Laundry]]
+		- [[Activity Room Maintenance]]
+	- [[On-Going Projects]]
+		- [[Workshop Revolution]]
+		- [[Exteriors painting]]
+		- 
+
+
+
+
+
+	- [[Tasks]]
+		- [[Workshop Maintenance]]
+		- [[Activity Room Maintenance]]
+		- [[Shopping]]
+		- [[Trash Run]]
+		- [[Land Maintenance]]
+			- [[Food Forest]]
+			- [[Grass-Cutting]]
+	- [[Rituals & Containers]]
+		- [[Garden morning]]
+	- [[On-Going Projects]]
+		- [[Workshop Revolution]]
+- Wednesday
+	- [[Tasks]]
+		- [[Laundry Care]]
+		- 
+		- [[Compost Care]]
+		- 
+		- [[Land Maintenance]]
+			- [[Garden Diary]]
+			- [[Food compost]]
+			- [[Irrigation]]
+				- [[Reforestation]]
+	- [[Rituals & Containers]]
+	- [[On-Going Projects]]
+		- [[Workshop Revolution]]
+- Thursday
+	- [[Tasks]]
+		- [[Kitchen Maintenance]]
+		- [[Laundry Care]]
+		- [[Land Maintenance]]
+			- [[Pruning]]
+			- [[Food Forest]]
+			- [[Grass-Cutting]]
+	- [[Rituals & Containers]]
+		- [[Garden morning]]
+	- [[On-Going Projects]]
+		- [[Workshop Revolution]]
+- Friday
+	- [[Tasks]]
+		- [[Outside Area Maintenance]]
+		- [[Activity Room Maintenance]]
+		- [[Land Maintenance]]
+			- [[Mulching]]
+			- [[Irrigation]]
+				- [[Reforestation]]
+	- [[Rituals & Containers]]
+	- [[On-Going Projects]]
+		- [[Workshop Revolution]]
+- Saturday
+	- [[Tasks]]
+	- [[Rituals & Containers]]
+- Sunday
+- 

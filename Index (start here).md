@@ -1,5 +1,7 @@
 
-Welcome to the TDF! This is where you journey begins..
+Welcome to the information layer of TDF! This is where you journey begins..
+
+## Main branches
 
 - [[Events]]
 
@@ -61,7 +63,7 @@ Welcome to the TDF! This is where you journey begins..
 
 - [[Projects]]
 	- [[On-Going Projects]]
-		- [[Workshop Re-organization]]
+		- [[Workshop Revolution]]
 		- [[Space Interaction Points (boards)]]
 		- [[Exteriors painting]]
 		-[[ Pizza lounge development]]
