@@ -8,39 +8,138 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4737239f66bf91af",
+            "id": "093cd1b07f704795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index (start here).md",
+                "file": "Sheep-telligence.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1088887d080fda58",
+            "id": "70f82620454a2da7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Poiesis.md",
+                "file": "Today @ TDF.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8c56fbb2e7fd245c",
+            "id": "322eabd1c0bf1e3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "This Week @ TDF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89520de5df87b9f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce8d0b0878ada289",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Outside Areas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa3a61a12f51106e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Café.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06963bed7b0b9784",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Common Areas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0b7c4ee9f668712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kitchen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f3925e386c94959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accommodations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85dffc11c58602fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b804b39d801fcad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Activity Room.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +168,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: thi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +185,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Poiesis.md",
+                "file": "Sheep-telligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Poiesis.md",
+                "file": "Sheep-telligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Poiesis.md"
+                "file": "Sheep-telligence.md"
               }
             }
           }
@@ -181,42 +281,46 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a6c18eb198b8745d",
+  "active": "093cd1b07f704795",
   "lastOpenFiles": [
+    "WhatsApp Image 2023-08-15 at 23.11.12.jpeg",
+    "README.md",
+    "Sheep-telligence.md",
+    "This Week @ TDF.md",
+    "Index.md",
+    "This week @ TDF.md",
+    "Arrivals.md",
+    "This week @ TDF 21.08 - 27.08.md",
+    "Today @ TDF.md",
+    "Poiesis.md",
+    "Kitchen.md",
+    "Spaces.md",
+    "Outside Areas.md",
+    "Café.md",
+    "Common Areas.md",
+    "Accommodations.md",
+    "Workshop.md",
+    "Land Bar & Dancing Area.md",
+    "Shopping List.md",
+    "Activity Room.md",
+    "Transformation Cabinet.md",
+    "Templates/Title.md",
+    "Templates",
+    "Pasta Sem Título",
+    "TDF Works.md",
+    "Everyone.md",
+    "Protocols.md",
+    "Control Room.md",
+    "Foto em 28-08-2023 às 12.39.jpg",
     "+",
     "Events",
-    "Index (start here).md",
-    "Poiesis.md",
     "Rituals",
     "Spaces",
-    "This Week @ TDF/This Week @ TDF 28.08 - 03.09.md",
-    "Pages/Workshop Revolution.md",
-    "Pages/Lady's Pipi Care.md",
-    "Pages/Accommodations Maintenance.md",
-    "TDF-Knowledge-Base/README.md",
     "TDF-Knowledge-Base",
-    "Pages/House.md",
-    "Pages/Facilities.md",
-    "Pages/Events.md",
-    "Pages/Accommodations.md",
-    "Pages",
+    "WIP",
     "This Week @ TDF",
-    "Pages/Today @ TDF.md",
-    "Pages/Weekly Flow.md",
-    "Pages/Portal.md",
-    "Pages/Common Areas.md",
-    "Pages/Activities Room & Co-Working.md",
-    "Pages/Transformation Cabinet Care.md",
-    "Pages/Workshop.md",
-    "Pages/Worm Farm Maintenance.md",
     "Attachments/A4 - 1.jpg",
     "Attachments",
-    "Pages/Outside Area.md",
-    "Pages/Café.md",
-    "Pages/Kitchen.md",
-    "Pages/Icebox projects.md",
-    "Pages/TDF Team.md",
-    "Pages/TDF Works.md",
     "Pages/Foto em 28-08-2023 às 12.39.jpg",
     "Attachments/A4 - 29.jpg",
     "Attachments/A4 - 56.jpg",
@@ -224,8 +328,6 @@
     "Attachments/A4 - 54.jpg",
     "Attachments/A4 - 53.jpg",
     "Attachments/A4 - 52.jpg",
-    "Attachments/A4 - 50.jpg",
-    "Attachments/A4 - 49.jpg",
-    "Fellow SHEEP  an Open Letter for ACTION!"
+    "Attachments/A4 - 50.jpg"
   ]
 }
