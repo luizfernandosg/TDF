@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sheep-telligence.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e70078c94637f86e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8040c52b634ecfd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshop.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +163,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +193,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: thi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -220,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheep-telligence.md",
+                "file": "Workshop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +262,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sheep-telligence.md",
+                "file": "Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +285,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sheep-telligence.md"
+                "file": "Workshop.md"
               }
             }
           }
@@ -281,11 +306,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "093cd1b07f704795",
+  "active": "8040c52b634ecfd7",
   "lastOpenFiles": [
-    "WhatsApp Image 2023-08-15 at 23.11.12.jpeg",
+    "Tools Check-In-and-Out.md",
+    "Workshop.md",
+    "Tools Check-In/Out.md",
+    "Tools Check-In",
+    "Spaces.md",
     "README.md",
     "Sheep-telligence.md",
+    "WhatsApp Image 2023-08-15 at 23.11.12.jpeg",
     "This Week @ TDF.md",
     "Index.md",
     "This week @ TDF.md",
@@ -294,12 +324,10 @@
     "Today @ TDF.md",
     "Poiesis.md",
     "Kitchen.md",
-    "Spaces.md",
     "Outside Areas.md",
     "Café.md",
     "Common Areas.md",
     "Accommodations.md",
-    "Workshop.md",
     "Land Bar & Dancing Area.md",
     "Shopping List.md",
     "Activity Room.md",
@@ -310,7 +338,6 @@
     "TDF Works.md",
     "Everyone.md",
     "Protocols.md",
-    "Control Room.md",
     "Foto em 28-08-2023 às 12.39.jpg",
     "+",
     "Events",
@@ -320,14 +347,12 @@
     "WIP",
     "This Week @ TDF",
     "Attachments/A4 - 1.jpg",
-    "Attachments",
     "Pages/Foto em 28-08-2023 às 12.39.jpg",
     "Attachments/A4 - 29.jpg",
     "Attachments/A4 - 56.jpg",
     "Attachments/A4 - 55.jpg",
     "Attachments/A4 - 54.jpg",
     "Attachments/A4 - 53.jpg",
-    "Attachments/A4 - 52.jpg",
-    "Attachments/A4 - 50.jpg"
+    "Attachments/A4 - 52.jpg"
   ]
 }
